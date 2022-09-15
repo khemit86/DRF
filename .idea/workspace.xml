@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="26379a71-21fb-49b6-a3a1-2e75b0b7beff" name="Changes" comment="drf" />
+    <list default="true" id="26379a71-21fb-49b6-a3a1-2e75b0b7beff" name="Changes" comment="django rest api" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,7 +50,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663243384427</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="django rest api">
+      <created>1663245292971</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1663245292972</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -66,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="drf" />
-    <option name="LAST_COMMIT_MESSAGE" value="drf" />
+    <MESSAGE value="django rest api" />
+    <option name="LAST_COMMIT_MESSAGE" value="django rest api" />
   </component>
 </project>
