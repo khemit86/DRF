@@ -27,3 +27,4 @@ urlpatterns = [
     path('api/user/',include('account.urls')),
     path('api/',include('todo.urls'))
 ]
+
